@@ -1,0 +1,41 @@
+.movies-list-item{
+    width: 15%;
+    list-style-type: none;
+    display: block;
+    margin: 20px;
+    height: 430px;
+    display: flex;
+    cursor: pointer;
+}
+
+.progress{
+    position: relative;
+    top: -25px;
+    left: 10px;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 50%;
+}
+
+.progress-value{
+    position: relative;
+    top: -47px;
+    left: -28px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.card-text{
+    font-size: 15px;
+    margin: 0px 15px;
+    position: relative;
+    top: 7px;;
+}
+
+.date{
+    font-size: 15px;
+    margin: 0px 15px;
+    position: relative;
+    top: 7px;
+}
