@@ -1,0 +1,29 @@
+.navigation{
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.nav-button{
+  margin: 0 30px;
+}
+
+a{
+  text-decoration: none;
+}
+
+header{
+  height: 13vh;
+  background-color: #2F4F4F;
+}
+
+footer{
+  height: 14vh;
+  background-color: #2F4F4F;
+  text-align: center;
+  vertical-align:middle;
+  display:table-cell;
+  width: 100vw;
+  font-size: 20px;
+  color: #ffffff;
+}
